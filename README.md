@@ -10,3 +10,6 @@
 - ID
 - Nama Barang
 - Harga
+
+# Problem
+- How remove index in pandas data frame?
